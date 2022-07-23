@@ -1,5 +1,5 @@
 # bash-scripting
-Bash Tutorials
+
 
 ##setup
 chmod +x myScript.sh
