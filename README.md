@@ -1,4 +1,5 @@
 # bash-scripting
+<br/>
 
 
 setup\
@@ -7,5 +8,5 @@ which bash
 
 
 
-#Now to run\
+Now to run\
 ./myScript.sh
