@@ -1,9 +1,9 @@
 # bash-scripting
 
 
-##setup
+#setup
 chmod +x myScript.sh
 which bash
 
-##Now to run 
+#Now to run 
 ./myScript.sh
